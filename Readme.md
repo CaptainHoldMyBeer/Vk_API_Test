@@ -1,0 +1,1 @@
+Simple app, which is working with VK API
